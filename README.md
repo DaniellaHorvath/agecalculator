@@ -26,7 +26,7 @@ each additional year is equal to about four human years
 - 2 human year increased by 9 cat years.
 - 3 human years increased by 4 cat years.
 - 4 human years increased by 4 cat years and so on ...
-Molly cat is 10 years old in 
+- Molly cat is 10 years old. Calculate Molly cat age.
 3. Return a Number (Optional: string describing your dog’s age (see below).)
 4. Run your code.
 6. Test your code.
